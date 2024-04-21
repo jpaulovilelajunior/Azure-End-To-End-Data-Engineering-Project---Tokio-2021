@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-tokyo-olympics-21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "915cc9da-4d4a-4b1f-8294-4a03ae909269",
+		"tenantId": "68ca67d7-cd5c-42a8-978a-5ae4cba22a53"
+	}
+}
