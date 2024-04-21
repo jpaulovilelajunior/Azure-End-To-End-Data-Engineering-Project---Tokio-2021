@@ -1,0 +1,13 @@
+{
+	"name": "AthletesHttp",
+	"properties": {
+		"description": "Base de dados dos atletas que competiram nas olímpiadas de Toquio.",
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/main/data/Athletes.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
